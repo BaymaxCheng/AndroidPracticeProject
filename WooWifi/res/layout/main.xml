@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:id="@+id/mScrollView" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:scrollbars="vertical"
+    >
+    
+	<LinearLayout 
+	    android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    >
+    
+		<Button
+		    android:id="@+id/openWifi"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton01"
+	    	/>
+		
+	    <Button
+		    android:id="@+id/closeWifi"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton02"
+	    	/>
+	    
+	    <Button
+		    android:id="@+id/checkWifiState"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton03"
+	    	/>
+	    
+		<Button
+		    android:id="@+id/createWifiLock"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton04"
+		    />
+		
+		<Button
+		    android:id="@+id/acquireWifiLock"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton05"
+		    />
+		
+	    <Button
+		    android:id="@+id/releaseWifiLock"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton06"
+	    	/>
+	    
+		<Button
+		    android:id="@+id/scanWifi01"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton07"
+		    />
+		
+		<Button
+		    android:id="@+id/scanWifi02"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton08"
+		    />
+		
+		<Button
+		    android:id="@+id/connectWifi"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton09"
+		    />
+		
+		<Button
+		    android:id="@+id/disconnectWifi"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton10"
+		    />
+		
+		<Button
+		    android:id="@+id/checkNetWorkState01"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton11"
+		    />
+		
+		<Button
+		    android:id="@+id/checkNetWorkState02"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:text="@string/lbButton12"
+		    />
+		
+		<TextView
+		    android:id="@+id/returnInfo"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    />
+		
+	</LinearLayout>
+</ScrollView>

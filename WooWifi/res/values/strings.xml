@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WifiActivity!</string>
+    <string name="app_name">WooWifi</string>
+	<!-- 按键名称 -->
+    <string name="lbButton01">打开Wifi</string>
+    <string name="lbButton02">关闭Wifi</string>
+    <string name="lbButton03">检查当前Wifi状态</string>
+    <string name="lbButton04">创建一个WifiLock</string>
+    <string name="lbButton05">锁定WifiLock</string>
+    <string name="lbButton06">解锁WifiLock</string>
+    <string name="lbButton07">扫描周边Wifi网络(原始数据版)</string>
+    <string name="lbButton08">扫描周边Wifi网络(整理数据版)</string>
+    <string name="lbButton09">连接指定Wifi网络</string>
+    <string name="lbButton10">断开当前连接的Wifi网络</string>
+    <string name="lbButton11">检查当前Wifi网络状态(原始数据版)</string>
+    <string name="lbButton12">检查当前Wifi网络状态(整理数据版)</string>  
+</resources>
