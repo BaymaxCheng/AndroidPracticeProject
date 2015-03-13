@@ -1,8 +1,25 @@
 # AndroidPracticeProject
 
+
+JiKeXueYuan --> WooCatchCrazyCat
+=======
+About
+------
+Android版本围住神经猫游戏
+
+JiKeXueYuan --> WooGame2048
+=======
+About
+------
+Android版本2048游戏
+
+
+
+
+
+
 WooWifi
 =======
-
 About
 ------
 学习Android系统的Wifi功能调用。
