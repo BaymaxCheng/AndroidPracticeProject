@@ -1,26 +1,30 @@
 # AndroidPracticeProject
 
 
-JiKeXueYuan --> WooCatchCrazyCat
+##JiKeXueYuan --> WooCatchCrazyCat
 =======
-About
+###About
 ------
 Android版本围住神经猫游戏
 
-JiKeXueYuan --> WooGame2048
+##JiKeXueYuan --> WooGame2048
 =======
-About
+###About
 ------
 Android版本2048游戏
 
-
-
-
-
-
-WooWifi
+##JiKeXueYuan --> WooUsingSlidingMenu
 =======
-About
+###About
+------
+Android用户界面优化-Android SlidingMenu菜单栏程序设计开发示例
+
+
+
+
+###WooWifi
+=======
+##About
 ------
 学习Android系统的Wifi功能调用。
 
